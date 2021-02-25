@@ -16,3 +16,5 @@ Added dimensions:
 - artist_hotttnesss
 - artist_mbtags
 - artist_mbtags_count
+
+WARNING -- Python: This code was tested with a Python interpreter with version 2.7.9.
